@@ -1,0 +1,13 @@
+# Private personal assets
+assets/
+
+# Private CV
+Bikash_Kushwaha_CV_Updated.pdf
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+.idea/
