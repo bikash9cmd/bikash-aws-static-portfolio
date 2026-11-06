@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 470" role="img" aria-label="Bikash Kushwaha">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1a2b"/>
+      <stop offset="1" stop-color="#07111f"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.42" r="0.55">
+      <stop offset="0" stop-color="#65e5b5" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#65e5b5" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="380" height="470" fill="url(#bg)"/>
+  <rect width="380" height="470" fill="url(#glow)"/>
+  <g fill="none" stroke="#ffffff" stroke-opacity="0.06">
+    <path d="M0 94H380M0 188H380M0 282H380M0 376H380M76 0V470M152 0V470M228 0V470M304 0V470"/>
+  </g>
+  <circle cx="190" cy="205" r="112" fill="none" stroke="#65e5b5" stroke-width="2" stroke-opacity="0.55"/>
+  <text x="190" y="205" text-anchor="middle" dominant-baseline="central"
+        font-family="Space Grotesk, DM Sans, Arial, sans-serif" font-size="96" font-weight="700"
+        fill="#edf4ff" letter-spacing="4">BK</text>
+  <text x="190" y="380" text-anchor="middle" font-family="DM Sans, Arial, sans-serif"
+        font-size="20" font-weight="600" fill="#edf4ff">Bikash Kushwaha</text>
+  <text x="190" y="408" text-anchor="middle" font-family="DM Sans, Arial, sans-serif"
+        font-size="12" letter-spacing="3" fill="#9fb0c5">CLOUD · ML · AWS</text>
+</svg>
