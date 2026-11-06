@@ -26,3 +26,7 @@ Open `index.html` directly in a browser, or use VS Code Live Server.
 
 ## Portfolio positioning
 The site is intentionally positioned around Cloud + Full-Stack + AI, with AWS/Terraform as the strongest visual theme. It highlights the projects and experience contained in the supplied CV and adds AWS Certified AI Practitioner as requested.
+
+## License
+
+Released under the [MIT License](LICENSE).
